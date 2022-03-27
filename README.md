@@ -7,8 +7,8 @@
   Determine the optimal campaign launch time and funding goal amount to have a successful, fully funded Kickstarter campaign.
 ## Analysis and Challenges
 ### Analysis of Outcomes Based on Launch Date
-	
-	#####To find if a theater campaign has a greater chance of success based on a specific launch date, the data must be organized into a pivot table. This table categorizes theater campaigns by fundraiser performance and relates them to the launch date month.
+
+#####To find if a theater campaign has a greater chance of success based on a specific launch date, the data must be organized into a pivot table. This table categorizes theater campaigns by fundraiser performance and relates them to the launch date month.
 	
   ![Pivot_table_theater](https://user-images.githubusercontent.com/99298165/160296540-c4bba926-687c-42a3-aa35-2f27b505a2a5.png)
   
@@ -17,7 +17,8 @@ Through this table I was able to create a line graph visually demonstrating that
   ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99298165/160296561-5780856b-c6f7-44e8-bb1a-679732a555cd.png)
   
 ### Analysis of Outcomes Based on Goals
-	Now that I understand when it is best to launch a campaign, I need to determine what funding goal will be successful. Using excel functions I created a table from the original Kickstarter data to organize the campaigns by set ranges of funding goal amounts.
+
+        Now that I understand when it is best to launch a campaign, I need to determine what funding goal will be successful. Using excel functions I created a table from the original Kickstarter data to organize the campaigns by set ranges of funding goal amounts.
 	
 ![Theater_Outcome_table](https://user-images.githubusercontent.com/99298165/160296790-19ac7709-1339-4010-9dad-897f63ee6c55.png) 
 
