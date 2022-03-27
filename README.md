@@ -37,7 +37,8 @@
 
  ## Results
   Based on the visuals created from the data I can determine the month of May would be the best time of year to start a fundraiser for a play with a total goal between $35,000 and $44,000 for the greatest chance of success.
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+  
+### What are two conclusions you can draw about the Outcomes based on Launch Date?
   After creating visuals of the outcomes versus launch date the peak month for theater campaign success is May. This will also steadily decline after May until its worst performing month of December.
   
 ![Outcomes_vs_Goals_detail](https://user-images.githubusercontent.com/99298165/160297302-ed4a2ef2-cc5d-4a3c-a0cf-3ec5bbc5bc91.png)
