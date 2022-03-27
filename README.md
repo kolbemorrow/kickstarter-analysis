@@ -43,11 +43,11 @@
 ![Outcomes_vs_Goals_detail](https://user-images.githubusercontent.com/99298165/160297302-ed4a2ef2-cc5d-4a3c-a0cf-3ec5bbc5bc91.png)
 
   A campaign launched during the last week of April will utilize the entire peak time period during May.
-  ####- What can you conclude about the Outcomes based on Goals?
+  ###- What can you conclude about the Outcomes based on Goals?
   The line graph of outcomes versus goals shows two values that had the highest percent successful, under $1,000 or between $35,000 and $44,999. We understand that under $1,000 would not be sufficient funding so a goal between $35,000 and $44,999 would work best. This goal range, however, is also nestled between two peak failure campaign ranges Taking this into consideration the best goal amount is $40,000.
-  ####- What are some limitations of this dataset?
+  ###- What are some limitations of this dataset?
   Although this data set takes much into consideration, I would like to factor in how long the campaigns were live. This could show if an earlier launch with a higher campaign goal that is live longer outperforms a later launch with a lower goal that is live for less time, a later launch with a larger goal and longer live time, etc. These campaigns could also be affected by the number of donations submitted at a given time. Do fundraisers perform better when there is a peak number of donations happening at the beginning or end of a goal? Would the amounts of individual donations or number of donors total indicate greater chance of success? More data about timelines for multiple factors could lead to greater efficiency reaching campaign goals.
-####- What are some other possible tables and/or graphs that we could create?
+  ###- What are some other possible tables and/or graphs that we could create?
   A clustered column graph for the outcomes versus goals data would demonstrate the same results in a similar shape to the line graph. A pie graph of the successful outcome percentages would show which goal amount would also work best.
 
 ![Outcomes_vs_Goals_clustered_column](https://user-images.githubusercontent.com/99298165/160297660-08f505a6-ec14-47bc-a09a-32df11e9278e.png)
